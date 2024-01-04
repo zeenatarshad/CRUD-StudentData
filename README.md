@@ -1,37 +1,39 @@
-**Student Management System
-**
+# Student Management System
+
 This project implements a Student Management System with a secure login page, utilizing Bootstrap for the frontend and JavaScript for the backend.
 
-**Features:
-**Login Page:
-**
-Users enter ID and password for authentication.
+## Features
 
-**Main Page:
-**
-Upon successful login, users are redirected to the main page.
+1. **Login Page:**
+   - Users enter ID and password for authentication.
 
-**Student Details Form:
-**
-Add, view, edit, and delete student records.
-Form includes necessary validations for data accuracy.
-Data Logging:
+2. **Main Page:**
+   - Upon successful login, users are redirected to the main page.
 
-Submitted data is logged in a table for easy tracking.
+3. **Student Details Form:**
+   - Add, view, edit, and delete student records.
+   - Form includes necessary validations for data accuracy.
 
-**Technologies Used:
-**Frontend: Bootstrap
-Backend: JavaScript
-Usage:
-Setup:
+4. **Data Logging:**
+   - Submitted data is logged in a table for easy tracking.
 
-Clone the repository.
-Open the project in your preferred code editor.
-Run:
+## Technologies Used
 
-Open the HTML file in a web browser.
-Interact:
+- **Frontend:** Bootstrap
+- **Backend:** JavaScript
 
-Log in with valid credentials.
-Add, view, edit, or delete student records.
+## Usage
+
+1. **Setup:**
+   - Clone the repository.
+   - Open the project in your preferred code editor.
+
+2. **Run:**
+   - Open the HTML file in a web browser.
+
+3. **Interact:**
+   - Log in with valid credentials.
+   - Add, view, edit, or delete student records.
+
 Feel free to contribute or report issues. Happy coding! 🚀
+
